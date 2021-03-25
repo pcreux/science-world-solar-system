@@ -26,11 +26,15 @@ def circle_coordinates(radius:, points: 100)
   end
 end
 
+def radians(degrees)
+  degrees * Math::PI / 180
+end
+
 # https://gis.stackexchange.com/questions/2951/algorithm-for-offsetting-a-latitude-longitude-by-some-amount-of-meters
 def offset(lat_long, x_y_in_meters)
   lat, long = lat_long
   x, y = x_y_in_meters
-  [ lat + y / (111111.0 * Math::cos(lat)), long + x / 111111.0 ]
+  [ lat + y / (111111.0 * Math::cos(radians(long))), long + x / 111111.0 ]
 end
 
 def kml_circle(name:, radius:)

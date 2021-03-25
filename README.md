@@ -6,7 +6,7 @@ I recently came across [The Sweden Solar System](http://www.swedensolarsystem.se
 
 I live in Vancouver, BC, where the Science World has a geodesic dome as well, so I thought that it would be a great sun as well!
 
-<img width="762" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Science_World_at_TELUS_World_of_Science.jpg/800px-Science_World_at_TELUS_World_of_Science.jpg">
+<img width="612" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Science_World_at_TELUS_World_of_Science.jpg/800px-Science_World_at_TELUS_World_of_Science.jpg">
 
 _Source: [wikipedia](https://commons.wikimedia.org/wiki/File:Science_World_at_TELUS_World_of_Science.jpg)_
 
@@ -16,7 +16,7 @@ In `kml.rb`, I re-learned to draw circles, offset coordinates with a distance in
 
 And here it is on [Google Map](https://www.google.ca/maps/d/viewer?mid=1ibVkcfzDeuIh6zHjZoQP5gZyIcWnlT2q&ll=49.26368798525838%2C-123.13926397657606&z=8)!
 
-<img width="762" alt="Screen Shot 2021-03-24 at 10 53 54 PM" src="https://user-images.githubusercontent.com/45299/112425766-de553600-8cf3-11eb-8869-626521e2c421.png">
+<img width="612" alt="Screen Shot 2021-03-25 at 9 15 43 AM" src="https://user-images.githubusercontent.com/45299/112506230-c8269480-8d4a-11eb-80f1-6d1d0496ff52.png">
 
 
 I believe that I could use a better formula so that the circles would be more circular (?!) but I'm happy to see that earth orbits just next to where I live!
